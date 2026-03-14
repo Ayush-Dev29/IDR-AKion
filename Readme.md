@@ -6,7 +6,7 @@ A complete brand identity and responsive single-page website built for the **Ins
 
 ## Live Demo
 
-> [Add your Netlify / GitHub Pages link here]
+> [https://instofdigitalrisk.netlify.app/]
 
 ---
 
